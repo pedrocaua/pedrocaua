@@ -6,17 +6,17 @@
 
 ---
 
-### 🚀 Tecnologias que utilizo:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,javascript,git,mysql,linux,postman" />
-</p>
-
----
-
 ### 📈 Estatísticas do GitHub
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocaua&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocaua&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Tecnologias que utilizo:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,git,mysql,postman" />
+</p>
 
 ---
 
