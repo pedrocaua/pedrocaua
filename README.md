@@ -14,7 +14,7 @@
 
 ### 🚀 Tecnologias que utilizo:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,git,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,mongodb,git,mysql,postman,swagger,junit" />
 </p>
 
 ---
